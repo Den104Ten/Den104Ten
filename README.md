@@ -1,5 +1,5 @@
 # 😎 About Me:
-I'm currenty working with python and Django<br>I like web development>I need a job
+
 
 
 ## 🌐 Socials:
